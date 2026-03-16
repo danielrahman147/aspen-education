@@ -848,7 +848,8 @@ img { max-width: 100%; display: block; }
   color: rgba(255,255,255,.4);
   margin-bottom: 6px;
 }
-.footer-col a {
+.footer-col a,
+.footer-col span {
   font-size: .875rem;
   color: rgba(255,255,255,.6);
   transition: color var(--transition);
